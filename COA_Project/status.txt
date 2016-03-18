@@ -1,0 +1,310 @@
+Line 1
+ALU Status: No ALU operation performed
+Data Movement: No Data movement operation performed
+I/O: Value of 5 taken from input stored to Register(0)
+
+
+Line 2
+Register Status: Register(01)= 0
+ALU Status: No ALU Operations Performed
+Data Movement: Value 0 moved to Register(01)
+Flag Status:
+Zero Flag : Set,   Negative Flag : Unset
+
+
+Line 3
+Register Status: Register(02)= 1
+ALU Status: No ALU Operations Performed
+Data Movement: Value 1 moved to Register(02)
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 4
+Register Status: Register(00)= 5, Register(03)= 5
+ALU Status: No ALU Operations Performed
+Data Movement: Value from Register(00) moved to Register(03)
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 5
+Register Status: Register(00)= 5, Register(04)= 5
+ALU Status: No ALU Operations Performed
+Data Movement: Value from Register(00) moved to Register(04)
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 6
+Register Status: Register(03)= 2
+ALU Status: Value 2 divided from Register(03)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 7
+Register Status: Register(03)= 4
+ALU Status: Value 2 multiplied to Register(03)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 8
+Register Status: Register(03)= 4, Register(04)= 1
+ALU Status: Value from Register(03) subtracted from Register(04)
+Data Movement: No Data Movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 9
+Register Status: Register(02)= 1, Register(05)= 1
+ALU Status: No ALU Operations Performed
+Data Movement: Value from Register(02) moved to Register(05)
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 10
+Register Status: Register(04)= 1, Register(05)= 1
+ALU Status: Value from Register(04) multiplied into Register(05)
+Data Movement: No Data Movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 11
+Register Status: Register(05)= 1, Register(01)= 1
+ALU Status: Value from Register(05) added to Register(01)
+Data Movement: No Data Movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 12
+Register Status: Register(00)= 2
+ALU Status: Value 2 divided from Register(00)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 13
+Register Status: Register(02)= 10
+ALU Status: Value 10 multiplied to Register(02)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 14
+Register Status: Register(00)= 2
+ALU Status: Value 0 compared to Register(00)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 4
+ALU Status: No ALU operation performed
+Data Movement: No Data movement operation performed
+Control Flow: Jumped to line: 4
+
+
+Line 4
+Register Status: Register(00)= 2, Register(03)= 2
+ALU Status: No ALU Operations Performed
+Data Movement: Value from Register(00) moved to Register(03)
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 5
+Register Status: Register(00)= 2, Register(04)= 2
+ALU Status: No ALU Operations Performed
+Data Movement: Value from Register(00) moved to Register(04)
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 6
+Register Status: Register(03)= 1
+ALU Status: Value 2 divided from Register(03)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 7
+Register Status: Register(03)= 2
+ALU Status: Value 2 multiplied to Register(03)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 8
+Register Status: Register(03)= 2, Register(04)= 0
+ALU Status: Value from Register(03) subtracted from Register(04)
+Data Movement: No Data Movement operation performed
+Flag Status:
+Zero Flag : Set,   Negative Flag : Unset
+
+
+Line 9
+Register Status: Register(02)= 10, Register(05)= 10
+ALU Status: No ALU Operations Performed
+Data Movement: Value from Register(02) moved to Register(05)
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 10
+Register Status: Register(04)= 0, Register(05)= 0
+ALU Status: Value from Register(04) multiplied into Register(05)
+Data Movement: No Data Movement operation performed
+Flag Status:
+Zero Flag : Set,   Negative Flag : Unset
+
+
+Line 11
+Register Status: Register(05)= 0, Register(01)= 1
+ALU Status: Value from Register(05) added to Register(01)
+Data Movement: No Data Movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 12
+Register Status: Register(00)= 1
+ALU Status: Value 2 divided from Register(00)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 13
+Register Status: Register(02)= 100
+ALU Status: Value 10 multiplied to Register(02)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 14
+Register Status: Register(00)= 1
+ALU Status: Value 0 compared to Register(00)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 4
+ALU Status: No ALU operation performed
+Data Movement: No Data movement operation performed
+Control Flow: Jumped to line: 4
+
+
+Line 4
+Register Status: Register(00)= 1, Register(03)= 1
+ALU Status: No ALU Operations Performed
+Data Movement: Value from Register(00) moved to Register(03)
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 5
+Register Status: Register(00)= 1, Register(04)= 1
+ALU Status: No ALU Operations Performed
+Data Movement: Value from Register(00) moved to Register(04)
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 6
+Register Status: Register(03)= 0
+ALU Status: Value 2 divided from Register(03)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Set,   Negative Flag : Unset
+
+
+Line 7
+Register Status: Register(03)= 0
+ALU Status: Value 2 multiplied to Register(03)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Set,   Negative Flag : Unset
+
+
+Line 8
+Register Status: Register(03)= 0, Register(04)= 1
+ALU Status: Value from Register(03) subtracted from Register(04)
+Data Movement: No Data Movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 9
+Register Status: Register(02)= 100, Register(05)= 100
+ALU Status: No ALU Operations Performed
+Data Movement: Value from Register(02) moved to Register(05)
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 10
+Register Status: Register(04)= 1, Register(05)= 100
+ALU Status: Value from Register(04) multiplied into Register(05)
+Data Movement: No Data Movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 11
+Register Status: Register(05)= 100, Register(01)= 101
+ALU Status: Value from Register(05) added to Register(01)
+Data Movement: No Data Movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 12
+Register Status: Register(00)= 0
+ALU Status: Value 2 divided from Register(00)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Set,   Negative Flag : Unset
+
+
+Line 13
+Register Status: Register(02)= 1000
+ALU Status: Value 10 multiplied to Register(02)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Unset,   Negative Flag : Unset
+
+
+Line 14
+Register Status: Register(00)= 0
+ALU Status: Value 0 compared to Register(00)
+Data Movement: No Data movement operation performed
+Flag Status:
+Zero Flag : Set,   Negative Flag : Unset
+
+
+Line 16
+ALU Status: No ALU operation performed
+Data Movement: No Data movement operation performed
+Control Flow: No Jump operation
+
+
+Line 16
+ALU Status: No ALU operation performed
+Data Movement: No Data movement operation performed
+I/O: Output 101 from Register(1)
+
+
